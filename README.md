@@ -7,3 +7,18 @@
 
 <hr>
 
+Здесь собраны мои аналитические работы с кратким описанием и ссылками.
+
+<details>
+  <summary><b>Python</b></summary>
+  <br/>
+
+## Исследование
+
+11 января, 2025
+<hr>
+</details>
+
+<details>
+  <summary><b>SQL</b></summary>
+  <br/>
