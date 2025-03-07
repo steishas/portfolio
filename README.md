@@ -80,5 +80,13 @@
 
 <hr>
 
+ <hr>
+
+## [DOTA Statistics](https://datalens.yandex/rah8snnxeq7ke)
+
+На дашборде представлена статистика по игровым матчам в игре DOTA 2.
+
+<hr>
+
 </details>
 
