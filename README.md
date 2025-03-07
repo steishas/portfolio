@@ -65,3 +65,20 @@
 *14 ноября, 2024*
 
 <hr>
+
+</details>
+
+<details>
+  <summary><b>DataLens</b></summary>
+  <br/>
+
+ <hr>
+
+## [Статистика по выступлениям TED_TALKS](https://datalens.yandex/m4h5mxrn5ijq9)
+
+На дашборде представлена статистика по выступлениям на конференциях TED_TALKS.
+
+<hr>
+
+</details>
+
