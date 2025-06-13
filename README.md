@@ -18,6 +18,13 @@
 <details>
   <summary><b>Python</b></summary>
   <br/>
+ <hr>
+ 
+## [Анализ юнит-экономики для приложения Procrastinate Pro+](https://github.com/steishas/portfolio/blob/main/python/python_rus/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%8E%D0%BD%D0%B8%D1%82_%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B8_%D0%B4%D0%BB%D1%8F_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_Procrastinate_Pro%2B.ipynb)
+
+**Цель проекта** - провести анализ юнит-экономики развлекательного приложения Procrastinate Pro+  в динамике за первые 28 дней для каждой когорты пользователей для того, чтобы выявить возможные причины стагнации в выручке.
+
+*12 июня, 2025*
 
 <hr>
 
