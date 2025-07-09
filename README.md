@@ -16,6 +16,7 @@
 Здесь собраны мои аналитические работы с кратким описанием и ссылками.
 <details>
 <summary><b>Яндекс-Практикум</b></summary>
+<br/>
  
 <details>
   <summary><b>Python</b></summary>
