@@ -1,4 +1,3 @@
-
 # &nbsp; Добро пожаловать в моё портфолио!
 
 <table align="right">
@@ -19,6 +18,22 @@
 <details>
 <summary><b>МФТИ</b></summary>
 <br/>
+
+<details>
+  <summary><b>Основы МО</b></summary>
+  <br/>
+ <hr>
+ 
+## [Исследование линейных моделей для решения задачи линейной регрессии](https://github.com/steishas/portfolio/blob/main/python/python_rus/ml_basics/linear_regression/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8_%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F_%D0%B4%D0%BB%D1%8F_GitHub.ipynb))
+
+**Цель проекта** - изучить особенности построения линейных моделей для решения задачи линейной регрессии на примере набора данных о добыче газа.
+*05 марта, 2026*
+
+<hr>
+</details>
+
+</details>
+
 
 <details>
   <summary><b>Python</b></summary>
