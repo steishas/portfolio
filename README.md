@@ -20,6 +20,29 @@
 <br/>
 
 <details>
+  <summary><b>Глубокое обучение</b></summary>
+  <br/>
+
+ <hr>
+
+## [Регуляризация и контроль сложности моделей](https://colab.research.google.com/drive/1PUomjfJyZ_FcfP8PN2BFYAjX4fau31yK#scrollTo=f449a73b348a7ce0)
+
+**Цель проекта** - изучить механизмы регуляризации и научиться применять их в обучении моделей.
+
+*22 марта, 2026*
+
+ <hr>
+
+## [Базовые компоненты нейронных сетей](https://github.com/steishas/portfolio/blob/main/python/python_rus/deep_learning/1_homework_m1_%D0%A1%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B2%D0%B0_%D0%90_%D0%9C.ipynb)
+
+**Цель проекта** - изучить базовые компоненты нейронных сетей.
+
+*15 марта, 2026*
+
+<hr>
+</details>
+
+<details>
   <summary><b>Основы МО</b></summary>
   <br/>
  <hr>
@@ -46,8 +69,6 @@
 **Цель проекта** - Научиться применять стратегии безопасного развертывания (Blue-Green и Canary) для ML-моделей и автоматизировать процесс деплоя через CI/CD (GitHub Actions).
 
 *11 мая, 2026*
- <hr>
- 
  <hr>
 
 ## [Обеспечение воспроизводимости эксперимента](https://github.com/steishas/hw5_mlops_Smirnova_Anastasia)
